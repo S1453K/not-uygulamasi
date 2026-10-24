@@ -1,0 +1,2 @@
+Not uygulaması
+okullardaki öğrencilerin notlarını hesaplayacak bir uygulama
