@@ -1,5 +1,5 @@
+chmod
+chown
+touch
+sort
 ls
-nano
-cd
-kill
-sudo
