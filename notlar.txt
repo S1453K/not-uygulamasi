@@ -3,3 +3,11 @@ chown
 touch
 sort
 ls
+<<<<<<< HEAD
+=======
+-----------------------
+remote
+push
+add
+commit
+>>>>>>> feature/hafta2-notlari
